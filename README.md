@@ -87,7 +87,11 @@ cv2.destroyAllWindows()
 
 <br>
 
-<video controls autoplay width="600px" src="source/video/test.mp4" title="video/mp4"></video>
+
+
+https://github.com/rahulsoni746/website_analyzer/assets/103484090/266cd097-b887-404d-96fa-77448dfe8f86
+
+
 
 ## Auther
 
