@@ -87,10 +87,7 @@ cv2.destroyAllWindows()
 
 <br>
 
-<video width="600px"  controls autoplay>
-  <source src="source\video\test.mp4" type="video/mp4">
-</video>
-
+<video controls autoplay width="600px" src="source/video/test.mp4" title="video/mp4"></video>
 
 ## Auther
 
