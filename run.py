@@ -6,7 +6,7 @@ from ultralytics import YOLO
 model = YOLO('model/model.pt') 
 
 # give the path of image
-img= 'source/images/1.png'
+img= 'source/images/input_4.png'
 
 while True: 
     # predict the image

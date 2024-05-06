@@ -86,6 +86,10 @@ cv2.destroyAllWindows()
 <img src="source\images\output_4.png" alt="loading..." style="width:600px;"/>
 
 
+<video width="600px"  controls autoplay>
+  <source src="source\video\test.mp4" type="video/mp4">
+</video>
+
 
 ## Auther
 
