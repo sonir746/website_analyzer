@@ -88,9 +88,7 @@ cv2.destroyAllWindows()
 <br>
 
 
-
-https://github.com/sonir746/website_analyzer/assets/103484090/266cd097-b887-404d-96fa-77448dfe8f86
-
+https://github.com/sonir746/website_analyzer/assets/169639197/f3a203c1-5c46-4f28-b3e5-9a3dd0c049c6
 
 
 ## Auther
